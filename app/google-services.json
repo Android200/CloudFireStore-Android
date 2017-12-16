@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "560602635874",
+    "firebase_url": "https://android-cloud-firestore.firebaseio.com",
+    "project_id": "android-cloud-firestore",
+    "storage_bucket": "android-cloud-firestore.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:560602635874:android:ba4f9c981d8b6e6f",
+        "android_client_info": {
+          "package_name": "com.gdgminna.cloudfirestoreandroid"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "560602635874-7k1gtj833rj5bpv4e9ofj45chnrp2t2i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvOo0V8oGRJQbUMA2dhEdCAmbAdA5E7uQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
